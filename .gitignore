@@ -1,0 +1,7 @@
+datasets/*
+datasets/*.txt
+datasets/*.*.txt
+*.txt
+*.swp
+*.swo
+*.swa

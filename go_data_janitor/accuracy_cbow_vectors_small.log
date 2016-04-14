@@ -1,0 +1,29 @@
+Total accuracy: 85.67 %   Semantic accuracy: 85.67 %   Syntactic accuracy: -nan %
+gram1-adjective-to-adverb:
+ACCURACY TOP1: 38.31 %  (380 / 992)
+Total accuracy: 80.77 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 38.31 %
+gram2-opposite:
+ACCURACY TOP1: 38.05 %  (309 / 812)
+Total accuracy: 77.44 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 38.19 %
+gram3-comparative:
+ACCURACY TOP1: 88.06 %  (1173 / 1332)
+Total accuracy: 78.65 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 59.38 %
+gram4-superlative:
+ACCURACY TOP1: 86.01 %  (965 / 1122)
+Total accuracy: 79.29 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 66.39 %
+gram5-present-participle:
+ACCURACY TOP1: 79.92 %  (844 / 1056)
+Total accuracy: 79.34 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 69.08 %
+gram6-nationality-adjective:
+ACCURACY TOP1: 91.18 %  (1458 / 1599)
+Total accuracy: 80.56 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 74.19 %
+gram7-past-tense:
+ACCURACY TOP1: 70.96 %  (1107 / 1560)
+Total accuracy: 79.68 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 73.60 %
+gram8-plural:
+ACCURACY TOP1: 86.34 %  (1150 / 1332)
+Total accuracy: 80.16 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 75.33 %
+gram9-plural-verbs:
+ACCURACY TOP1: 57.13 %  (497 / 870)
+Total accuracy: 79.12 %   Semantic accuracy: 85.67 %   Syntactic accuracy: 73.85 %
+Questions seen / total: 19274 19544   98.62 %
